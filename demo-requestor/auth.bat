@@ -1,0 +1,1 @@
+ java -cp C:\workspace2\demo-requestor\demo-requestor\target -jar demo-requestor-0.0.1-SNAPSHOT.war
